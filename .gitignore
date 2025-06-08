@@ -8,5 +8,4 @@ node_modules/
 /junitReports
 .env
 .DS_store
-/.download
-
+/downloads
